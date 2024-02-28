@@ -24,8 +24,8 @@
          array(
             'Accept: application/json',
             'Content-Type: application/json',
-            'x-client-id:CF137647CN0HKA8K53DJ5ENIPQT0',
-            'x-client-secret:cfsk_ma_test_fdb6effc7b7c708040d8e60f7d25b90d_444da427'
+            'x-client-id:CF1376dgdfgK53DJ5ENIPQT0',
+            'x-client-secret:cfsk_ma_test_fdbsdgds40d8e60f7d25b90d_444da427'
         )
      );
 
